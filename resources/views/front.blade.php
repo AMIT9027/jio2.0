@@ -53,7 +53,7 @@
         </header>
         <!-- /header -->
         <section class="body__conatiner">
-            <section class="home__banner" style=" background: url("asset/images/web.PNG") center top no-repeat;">
+            <section class="home__banner" style=" background: image-url("asset/images/web.PNG") center top no-repeat;">
                 <div class="site__fix">
                     <h1 class="banner__text wow fadeInRight" style=" color:whitesmoke;">
                         Welcome
