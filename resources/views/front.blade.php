@@ -81,7 +81,7 @@
                     <ul class="recent__listing">
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="asset/images/r-work-1.jpg" alt="No Network">
+                                <img src="asset/images/r-work-5.jpg" alt="No Network">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
