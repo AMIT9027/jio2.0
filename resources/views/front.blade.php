@@ -4,9 +4,9 @@
 <head>
     <title>WHISTLEBz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="/css/libs/animate.css">
-    <link rel="stylesheet" href="/css/libs/owl.carousel.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="asset/css/libs/animate.css">
+    <link rel="stylesheet" href="asset/css/libs/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="asset/css/stylesheet.css">
     <script src="{{asset('asset/js/libs/jquery.min.js')}}"></script>
     <script src="{{asset('asset/js/libs/owl.carousel.js')}}"></script>
     <script src="{{asset('asset/js/custom.js')}}" type="text/javascript"></script>
