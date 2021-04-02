@@ -398,7 +398,7 @@
 
             <section class="contact__form">
             <div id="Contactform">
-                <div class="site__fix" style="width: 100%;"">
+                <div class="site__fix" style="width: 100%;">
                     <div class="contact__left wow fadeInLeft" style="width: 100%;">
                         <h2>Contact Us</h2>
                         <div class="form">
