@@ -79,14 +79,14 @@
                         do well in it.
                     </p>
                     <ul class="recent__listing">
-                        <li class="wow fadeIn">
+                              <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="asset/images/r-work-5.jpg" alt="No Network">
+                                <img src="asset/images/r-work-2.jpg" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
                                             <h3>whistleb is a competitive programming community</h3>
-                                            <p>of programmers from across the globe. </p> <span class="link">EXPLORE </span>
+                                            <p>of programmers from across the globe.</p> <span class="link">EXPLORE </span>
                                         </div>
                                     </div>
                                 </div>
