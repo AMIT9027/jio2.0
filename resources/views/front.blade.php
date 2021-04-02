@@ -481,7 +481,7 @@
             </div>
         </footer>
     </section>
-    <script src="{{asset('asset/js/libs/wow.js')}}" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="asset/js/libs/wow.js" type="text/javascript" charset="utf-8" async defer></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
         const stats = document.querySelectorAll(".counter");
