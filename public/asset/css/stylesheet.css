@@ -172,7 +172,7 @@ Home page banner Css
 .home__banner {
     float: left;
     width: 100%;
-    background: url(../images/web.png) center top no-repeat;
+    background: url(asset/images/web.png) center top no-repeat;
     background-size: cover;
     min-height: 100.0rem;
     border-bottom: .3rem solid white;
