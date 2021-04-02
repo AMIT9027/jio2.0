@@ -196,7 +196,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="asset/images/Our Offerings/testing.png" alt="">
+                                <img src="asset/images/r-work-3.jpg"  alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
 
