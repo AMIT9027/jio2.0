@@ -173,7 +173,7 @@
                     <ul class="recent__listing">
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/business.png')}}" alt="">
+                                <img src="asset/images/Our Offerings/business.png" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
 
@@ -184,7 +184,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/web.png')}}" alt="">
+                                <img src="asset/images/Our Offerings/web.png" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
 
@@ -196,7 +196,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/testing.png')}}" alt="">
+                                <img src="asset/images/Our Offerings/testing.png" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
 
@@ -207,7 +207,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/everything.png')}}" alt="">
+                                <img src="asset/images/Our Offerings/everything.png" alt="">
                                  <div class="content__block">
                                     <div class="content__block__inner">
 
@@ -228,7 +228,7 @@
                     <p class="short__dec" style="font-size: 1.4em; color:black;">We are innovators in creative web design in Los Angeles. We don’t play any guessing games, but seek the facts from a range of analytics to help you get the edge.</p>
                     <div class="exp__listing" ">
                         <article class="wow fadeInUp"style="background-color: lightgray;">
-                            <i class="exp-icon"> <img src="{{asset('asset/images/expertise/expertise-1.png')}}" alt=""></i>
+                            <i class="exp-icon"> <img src="asset/images/expertise/expertise-1.png" alt=""></i>
                             <h2>Discovery</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices vel nunc et mattis. Sed nec ipsum nec justo elementum tincidunt ut bibendum augue. Nullam vitae lectus congue nulla faucibus malesuada in vel ex. Integer
@@ -236,7 +236,7 @@
                             </p>
                             <span class="link"><a href="/discovery/">Explore Services &gt;</a> </span>
                             <div class="expertise__hover">
-                                <img src="{{asset('asset/images/expertise/expertise_block-1_hover.jpg')}}">
+                                <img src="asset/images/expertise/expertise_block-1_hover.jpg">
                                 <div class="inner">
                                     <div class="exp__text">
                                         <h4>Discovery</h4>
@@ -263,7 +263,7 @@
                             </div>
                         </article>
                         <article class="wow fadeInUp"style="background-color: lightgray;">
-                            <i class="exp-icon"> <img src="{{asset('asset/images/expertise/expertise-1.png')}}" alt=""></i>
+                            <i class="exp-icon"> <img src="asset/images/expertise/expertise-1.png" alt=""></i>
                             <h2>Strategy &amp; <br>Planning</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices vel nunc et mattis. Sed nec ipsum nec justo elementum tincidunt ut bibendum augue. Nullam vitae lectus congue nulla faucibus malesuada in vel ex. Integer
@@ -271,7 +271,7 @@
                             </p>
                             <span class="link"><a href="/discovery/">Explore Services &gt;</a> </span>
                             <div class="expertise__hover">
-                                <img src="{{asset('asset/images/expertise/expertise_block-1_hover.jpg')}}">
+                                <img src="asset/images/expertise/expertise_block-1_hover.jpg">
                                 <div class="inner">
                                     <div class="exp__text">
                                         <h4>Discovery</h4>
@@ -298,7 +298,7 @@
                             </div>
                         </article>
                         <article class="wow fadeInUp"style="background-color: lightgray;">
-                            <i class="exp-icon"> <img src="{{asset('asset/images/expertise/expertise-1.png')}}" alt=""></i>
+                            <i class="exp-icon"> <img src="asset/images/expertise/expertise-1.png" alt=""></i>
                             <h2>Discovery</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices vel nunc et mattis. Sed nec ipsum nec justo elementum tincidunt ut bibendum augue. Nullam vitae lectus congue nulla faucibus malesuada in vel ex. Integer
@@ -306,7 +306,7 @@
                             </p>
                             <span class="link"><a href="/discovery/">Explore Services &gt;</a> </span>
                             <div class="expertise__hover">
-                                <img src="{{asset('asset/images/expertise/expertise_block-1_hover.jpg')}}">
+                                <img src="asset/images/expertise/expertise_block-1_hover.jpg">
                                 <div class="inner">
                                     <div class="exp__text">
                                         <h4>Discovery</h4>
