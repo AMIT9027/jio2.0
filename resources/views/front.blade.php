@@ -7,9 +7,9 @@
     <link rel="stylesheet" type="text/css" href="asset/css/libs/animate.css">
     <link rel="stylesheet" href="asset/css/libs/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="asset/css/stylesheet.css">
-    <script src="{{asset('asset/js/libs/jquery.min.js')}}"></script>
-    <script src="{{asset('asset/js/libs/owl.carousel.js')}}"></script>
-    <script src="{{asset('asset/js/custom.js')}}" type="text/javascript"></script>
+    <script src="asset/js/libs/jquery.min.js"></script>
+    <script src="asset/js/libs/owl.carousel.js"></script>
+    <script src="asset/js/custom.js" type="text/javascript"></script>
     <style>
         .wow:first-child {
             visibility: hidden;
@@ -26,7 +26,7 @@
                 </div>
                 <div class="nav__row">
                     <div class="site__fix">
-                        <a href="" title="whistleb" class="logo"> <img src="{{asset('asset/images/logos.jpeg')}}" alt="whistleb" height="100%"></a>
+                        <a href="" title="whistleb" class="logo"> <img src="asset/images/logos.jpeg" alt="whistleb" height="100%"></a>
                         <div class="burger-container">
                             <div id="burger">
                                 <div class="bar topBar"></div>
@@ -81,7 +81,7 @@
                     <ul class="recent__listing">
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-1.jpg')}}" alt="No Network">
+                                <img src="asset/images/r-work-1.jpg" alt="No Network">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -94,7 +94,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-2.jpg')}}" alt="">
+                                <img src="asset/images/r-work-2.jpg" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -107,7 +107,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-3.jpg')}}" alt="">
+                                <img src="asset/images/r-work-3.jpg" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -120,7 +120,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-4.jpg')}}" alt="">
+                                <img src="asset/images/r-work-4.jpg" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -133,7 +133,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-5.jpg')}}" alt="">
+                                <img src="asset/images/r-work-5.jpg" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -146,7 +146,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-6.jpg')}}" alt="">
+                                <img src="asset/images/r-work-6.jpg" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
